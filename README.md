@@ -1,4 +1,10 @@
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F71F1F&center=true&vCenter=true&width=435&lines=I'm+SysMaker+system+administrator)](https://git.io/typing-svg) 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F71F1F&center=true&vCenter=true&width=435&lines=I'm+SysMaker%2C+system+administrator)](https://git.io/typing-svg) 
+
+<p align="center">
+    <img align="center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTR4aHhjODh4N2t3ZTJraHNzNDU2MWRrM2pvdTdnZjJwZzJqOHFoaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WiM5K1e9MtEic/200.webp">
+</p>
+
+
 - 👋 Hi, I’m @SysM4ker
 - 👀 I’m interested in System Administrator
 - 🌱 I’m currently learning bash
