@@ -6,7 +6,7 @@
 
 --- 
 
-## 👾 About Me: 🌍
+## 👾 About Me: 
 
     🛠️ Up-and-coming system administrator.
     💰 I’m interested in System Administrator
@@ -15,7 +15,13 @@
 
 --- 
 
+## 🌍 Skills:
 
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=bash,linux,vim,docker,git, " />
+</p>
+
+--- 
 <!---
 SysM4ker/SysM4ker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
