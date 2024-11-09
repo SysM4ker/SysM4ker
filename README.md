@@ -1,3 +1,4 @@
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F71F1F&vCenter=true&width=435&lines=I'm+SysMaker+system+administrator)](https://git.io/typing-svg) 
 - 👋 Hi, I’m @SysM4ker
 - 👀 I’m interested in System Administrator
 - 🌱 I’m currently learning bash
