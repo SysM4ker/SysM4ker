@@ -11,7 +11,7 @@
   - 🛠️ Up-and-coming system administrator.
   - 💰 I’m interested in System Administrator
   - ♟️ I'm currently learning bash, networking and lots of other things.
-  - 📫 How to reach me [mail](mailto:ContactSysMaker@protonmail.com) using [pgp](https://keybase.io/sysmaker/pgp_keys.asc)
+  - 📫 How to reach me [mail](mailto:ContactSysMaker@protonmail.com) using [gpg](https://keybase.io/sysmaker/pgp_keys.asc)
 
 --- 
 
