@@ -18,7 +18,7 @@
 ## 🌍 Skills:
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=bash,linux,vim,docker,git, " />
+    <img src="https://skillicons.dev/icons?i=linux,bash,docker,vim,git, " />
 </p>
 
 --- 
