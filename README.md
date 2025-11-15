@@ -1,7 +1,7 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F71F1F&center=true&vCenter=true&width=435&lines=I'm+SysMaker%2C+system+administrator)](https://git.io/typing-svg) 
 
 <p align="center">
-    <img align="center" src="https://media1.tenor.com/m/UyQyK5ykVIsAAAAd/leon-mr-robot.gif">
+    <img align="center" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmI5ZWkyNWFsaGM2ZHdzcDdqZ3dmOXZ3NndpbWFnNmRvYXhpeXljdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rKydlqfyxtjRS/giphy.gif">
 </p>
 
 --- 
